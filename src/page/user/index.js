@@ -472,7 +472,7 @@ const User = ({navigation}) => {
     }
   };
 
-  const fotoUrl = `http://103.114.111.178:3035/uploads/img/profil/${data.foto}`;
+  const fotoUrl = `https://absensidinkes.deliserdangkab.go.id/uploads/img/profil/${data.foto}`;
   console.log('data foto', fotoUrl);
   return (
     <>

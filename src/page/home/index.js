@@ -147,7 +147,7 @@ const Home = ({navigation}) => {
     setLoading(false);
   };
 
-  const fotoUrl = `http://103.114.111.178:3035/uploads/img/profil/${data && data.UsersById && data.UsersById.foto}`;
+  const fotoUrl = `https://absensidinkes.deliserdangkab.go.id/uploads/img/profil/${data && data.UsersById && data.UsersById.foto}`;
   console.log('data foto di home', fotoUrl);
 
     return (

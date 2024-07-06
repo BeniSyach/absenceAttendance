@@ -25,7 +25,7 @@
       }
     },
     "android": {
-      "versionCode": 14,
+      "versionCode": 15,
       "package": "com.dinkes.absensi",
       "adaptiveIcon": {
         "foregroundImage": "./src/assets/icons/logo_dinkes_new.png",
