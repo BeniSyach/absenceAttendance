@@ -2,7 +2,7 @@
   "expo": {
     "name": "Deli Serdang Sehat",
     "slug": "DeliSerdangSehat",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "orientation": "portrait",
     "icon": "./src/assets/icons/logo_dinkes_new.png",
     "userInterfaceStyle": "automatic",
@@ -25,7 +25,7 @@
       }
     },
     "android": {
-      "versionCode": 15,
+      "versionCode": 16,
       "package": "com.dinkes.absensi",
       "adaptiveIcon": {
         "foregroundImage": "./src/assets/icons/logo_dinkes_new.png",
